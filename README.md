@@ -223,4 +223,4 @@ SnapGene Viewer is provided as a complete free version, with all features and up
 Ready to enhance your research capabilities? **Download SnapGene Viewer today and explore the world of DNA sequences with confidence!**
 
 ---
-**Last updated:** 2026-09-30 13:23:53 UTC
+**Last updated:** 2026-09-30 18:52:45 UTC
